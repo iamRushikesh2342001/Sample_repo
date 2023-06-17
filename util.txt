@@ -1,1 +1,2 @@
-this is my first file to be checked in to master branch.
+This is my first file to checked in to the master branch.
+this is the second revision to file vi.2.0
